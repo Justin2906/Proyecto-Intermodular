@@ -1,0 +1,13 @@
+.polis{
+    background: lightgray;
+    width: 80%;
+    border-radius: 5px;
+    padding: 25px;
+}
+
+.polis h2{
+    color: #573b8a;
+    text-align: center;
+    font-size: 35px;
+}
+

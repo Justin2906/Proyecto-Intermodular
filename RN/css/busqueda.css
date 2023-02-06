@@ -1,0 +1,82 @@
+.row{
+    position: fixed;
+	width: 500px;
+	height: auto;
+	background: lightgray;
+	border-radius: 10px;
+	box-shadow: 5px 20px 50px #000;
+	margin-top: 4%;
+    margin-left: 11%;
+}
+
+
+.row label{
+	color: #333;
+	font-size: 26px;
+	justify-content: center;
+	display: flex;
+	font-weight: bold;
+	cursor: pointer;
+}
+
+.row input{
+	width: 75%;
+	height: 40px;
+	justify-content: center;
+	display: flex;
+	margin: 20px auto;
+	padding: 10px;
+	border: none;
+	outline: none;
+	border-radius: 5px;
+}
+
+.row .col-md-12{
+	text-align: center;
+	padding: 8%;
+	margin-top: 5%;
+	margin-bottom: 5%;
+	
+}
+.row .col-md-12 .btn btn-primary{
+	background: #573b8a;
+	
+}
+.row a{
+	text-decoration: none;
+	color:#573b8a;
+    text-align: center;
+}
+
+.row h2{
+	color: #573b8a;
+	text-align: center;
+    font-size: 35px;
+}
+
+body{
+    font-family: 'Roboto Slab', serif;
+    background: #252A37;
+}
+
+.resenas-activas{
+    background: lightgray;
+    margin-right: 10%;
+    width: 650px;
+    box-shadow: 5px 20px 50px #000;
+    border-radius: 10px;
+    padding: 4%;
+}
+
+.resenas-activas h1{
+    text-align: center;
+    color: #573b8a;
+}
+
+.ver{
+    color: #fff;
+    background: #573b8a;
+    border-radius: 10px;
+    padding: 5%;
+    margin-top: 10px;
+}

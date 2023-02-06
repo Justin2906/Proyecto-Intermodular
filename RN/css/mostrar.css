@@ -1,0 +1,83 @@
+.container{
+    justify-content: center;
+    display: flex;
+}
+.row{
+	width: 850px;
+	height: auto;
+	background: lightgray;
+	border-radius: 10px;
+	box-shadow: 5px 20px 50px #000;
+	margin-top: 2%;
+}
+
+.row .escrito p{
+    font-weight: bold;
+    font-size: 30px;
+}
+.row .guardar a{
+	text-decoration: none;
+	color: #fff;
+    justify-content: center;
+    display: flex;
+    padding: 8px;
+    background: #573b8a;
+    margin-top: 3%;
+    border-radius: 5px;
+}
+
+.row h2{
+	color: #573b8a;
+	text-align: center;
+    font-size: 45px;
+    font-weight: bold;
+    margin-top: -6%;
+    margin-bottom: 4%;
+}
+
+.row .col-md-12 .btn btn-primary{
+	background: #573b8a;
+}
+
+.row  input{
+	width: 75%;
+	height: 40px;
+	justify-content: center;
+	display: flex;
+	margin: 20px auto;
+	padding: 10px;
+	border: none;
+	outline: none;
+	border-radius: 5px;
+}
+
+body{
+    font-family: 'Roboto Slab', serif;
+    background: #252A37;
+}
+
+.row .col-md-12{
+	text-align: center;
+	padding: 8%;
+	margin-top: 5%;
+}
+.row .col-md-12 .btn btn-primary{
+	background: #573b8a;
+	
+}
+.row a{
+	text-decoration: none;
+	color:#573b8a;
+    text-align: center;
+}
+
+.row h2{
+	color: #573b8a;
+	text-align: center;
+    font-size: 35px;
+}
+
+body{
+    font-family: 'Roboto Slab', serif;
+    background: #252A37;
+}

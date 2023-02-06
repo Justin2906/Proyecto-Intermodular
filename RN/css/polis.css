@@ -1,0 +1,26 @@
+.polis{
+    background: lightgray;
+    width: 650px;
+    border-radius: 5px;
+    padding: 25px;
+    margin-top: 10%;
+}
+
+.polis h2{
+    color: #573b8a;
+    text-align: center;
+    font-size: 35px;
+}
+
+.polis a{
+    text-decoration: none;
+    color: #573b8a;
+    padding: 5px;
+    border: 2px solid #fff;
+}
+
+.polis a:hover{
+    background: #573b8a;
+    opacity: 0.5;
+    color: #fff;
+}
